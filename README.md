@@ -32,3 +32,4 @@ Then update getValues to query the widgets for their values, and return a dictio
 **3)** email_gen.py is a Python script that parses the same pickle file from Test 1 and generates an email body string which is printed to the terminal. There are three bugs in the script. Find and fix all three bugs. Describe the bugs and how you fixed them in comments.
 
 ..
+...
